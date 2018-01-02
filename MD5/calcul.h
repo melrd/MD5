@@ -1,0 +1,6 @@
+#ifndef CALCUL_H_INCLUDED
+#define CALCUL_H_INCLUDED
+
+
+
+#endif // CALCUL_H_INCLUDED

@@ -1,0 +1,2 @@
+http://infohost.nmt.edu/~sfs/Students/HarleyKozushko/Presentations/MD5.pdf
+https://tools.ietf.org/html/rfc1321

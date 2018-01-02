@@ -1,0 +1,29 @@
+VAARIABLE
+
+M[] 
+	message final
+	que 0 ou 1
+
+A / B / C / D / AA / BB / CC / DD
+	vector de 32 bits
+	0 ou 1
+
+
+********************************************************************************************
+
+FONCTION
+
+F G H I
+
+calcul T
+
+copie
+
+round 1 / 2 / 3 / 4
+
+calcul
+	xor
+
+conversion
+	hexa <=> binaire
+	binaire <=> hexa
