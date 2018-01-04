@@ -1,4 +1,6 @@
+#include<vector>
+#include <iostream>
+#include "message.h"
 
-/**
- différentes étapes de calcul du msg
-*/
+using namespace std;
+

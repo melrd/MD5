@@ -1,11 +1,18 @@
 #include <iostream>
+#include "convertir.h"
+
+#include <vector>
 
 using namespace std;
 
-int main()
-{
-    cout << "Hello world!" << endl;
 
-    // l objectif est de n avoir que des appels de fonctions!
+
+int main(){
+
+
+    initialisation();
+
+
     return 0;
 }
+

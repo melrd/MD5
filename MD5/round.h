@@ -7,6 +7,9 @@ void round2();
 void round3();
 void round4();
 
+
+
+
 char tabRound1[][]{
 /**
 [ABCD  0  7  1]  [DABC  1 12  2]  [CDAB  2 17  3]  [BCDA  3 22  4]

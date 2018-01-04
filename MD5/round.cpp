@@ -3,6 +3,7 @@
 les A B C D
 */
 
+
 void round1(){
 /** a = b + ((a + F(b,c,d) + X[k] + T[i]) <<< s) */
     for (int i = 0;i < 16; i++)
